@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">KeyVault</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="it_seems_you_re_not_connected_to_the_internet_please_check_your_connection_and_try_again">It seems you\'re not connected to the internet. Please check your connection and try again.</string>
+    <string name="login_with_oauth">Login with OAuth</string>
+    <string name="enable_biometric_authentication">Enable Biometric Authentication?</string>
+    <string name="are_you_sure_you_don_t_want_to_set_up_biometric_authentication_enabling_it_enhances_security_and_provides_quick_access_to_your_account">Are you sure you don’t want to set up biometric authentication? Enabling it enhances security and provides quick access to your account.</string>
+    <string name="secure_your_app_with_biometrics">Secure Your App with Biometrics</string>
+    <string name="enable_biometric_authentication_to_enhance_your_app_s_security_using_your_fingerprint_or_face_unlock_ensures_quick_access_while_keeping_your_data_safe_and_protected">Enable biometric authentication to enhance your app\'s security. Using your fingerprint or face unlock ensures quick access while keeping your data safe and protected.</string>
+    <string name="biometrics_registered_successfully">Biometrics Registered successfully..!!</string>
+    <string name="authenticate_finger_print">Authenticate Finger Print</string>
+    <string name="finger_print_screen">Finger Print Screen</string>
+    <string name="too_many_failed_attempts">Too Many Failed Attempts</string>
+    <string name="you_have_entered_the_incorrect_pin_three_times_to_ensure_your_account_s_security_you_must_reset_your_pin_would_you_like_to_reset_it_now">You have entered the incorrect PIN three times. To ensure your account\'s security, you must reset your PIN. Would you like to reset it now?</string>
+    <string name="your_device_does_not_support_biometric_authentication_or_no_biometric_data_is_configured_please_check_your_device_settings_to_enable_and_set_up_biometrics_for_enhanced_security">Your device does not support biometric authentication, or no biometric data is configured. Please check your device settings to enable and set up biometrics for enhanced security.</string>
+    <string name="biometric_authentication">Biometric Authentication</string>
+    <string name="authenticate_using_fingerprint_or_face">Authenticate using fingerprint or face</string>
+</resources>
