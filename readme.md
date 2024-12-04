@@ -119,12 +119,17 @@ We prioritize app reliability and quality through:
 - **Mockito**: Mocking dependencies to isolate tests and validate interactions.
 
 ```kotlin  
-@Test  
-fun `test PIN creation success`() {  
-    val mockRepository = mock(PinRepository::class.java)  
-    val viewModel = PinViewModel(mockRepository)  
-    viewModel.createPin("123456")  
-    verify(mockRepository).savePin("123456")  
+ @Test
+fun `test onNextClicked Create Step ConfirmPin success`() {
+
+   viewModel.updateFirstPin("123456")
+
+   viewModel.onNextClicked(StepMode.Create, null) {
+      val capturedValue = it.first
+      assertEquals("123456", capturedValue)
+      assertTrue(it.second)
+   }
+
 }  
 ```  
 
