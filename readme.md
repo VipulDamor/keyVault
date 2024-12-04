@@ -8,6 +8,22 @@ Here’s the updated README with the app name **KeyVault**:
 
 ---
 
+---
+
+## 📦 Download the APK
+Click the link below to download the latest version of the app:
+
+[![Download APK](https://img.shields.io/badge/Download-APK-brightgreen)](/images/resource/app-debug.apk)
+
+---
+
+## 🎥 Demo Video
+Watch the app in action by clicking the link below:
+
+[![Watch Video](https://img.shields.io/badge/Watch-Demo%20Video-blue)](/images/resource/test_video.mp4)
+
+---
+
 ## 🚀 **Overview**
 
 **KeyVault** is a state-of-the-art mobile application designed to enhance security and authentication workflows. Developed using **Jetpack Compose** and based on **Clean Architecture**, it prioritizes robustness, security, and a superior user experience.
