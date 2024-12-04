@@ -13,7 +13,7 @@ Here’s the updated README with the app name **KeyVault**:
 ## 📦 Download the APK
 Click the link below to download the latest version of the app:
 
-[![Download APK](https://img.shields.io/badge/Download-APK-brightgreen)](/images/resource/app-debug.apk)
+[![Download APK](https://img.shields.io/badge/Download-APK-brightgreen)](/images/resource/app_debug.apk)
 
 ---
 
